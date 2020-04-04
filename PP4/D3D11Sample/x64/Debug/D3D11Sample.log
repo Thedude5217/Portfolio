@@ -1,0 +1,58 @@
+﻿  compilation header save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\MyGeoPShader.csh
+  compilation object save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\x64\Debug\MyGeoPShader.cso
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+  
+  compilation header save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\MyGeoShader.csh
+  compilation object save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\x64\Debug\MyGeoShader.cso
+  compilation header save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\MyGeoVShader.csh
+  compilation object save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\x64\Debug\MyGeoVShader.cso
+  compilation header save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\MyGPShader.csh
+  compilation object save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\x64\Debug\MyGPShader.cso
+  compilation header save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\MyGVShader.csh
+  compilation object save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\x64\Debug\MyGVShader.cso
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\MyMeshPShader.hlsl(43,30-77): warning X3206: 'dot': implicit truncation of vector type
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\MyMeshPShader.hlsl(50,29-50): warning X3206: implicit truncation of vector type
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\MyMeshPShader.hlsl(62,39-60): warning X3206: implicit truncation of vector type
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\MyMeshPShader.hlsl(63,36-64): warning X3206: 'dot': implicit truncation of vector type
+  
+  compilation header save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\MyMeshPShader.csh
+  compilation object save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\x64\Debug\MyMeshPShader.cso
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\MyMeshVShader.hlsl(38,5-56): warning X3206: implicit truncation of vector type
+  
+  compilation header save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\MyMeshVShader.csh
+  compilation object save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\x64\Debug\MyMeshVShader.cso
+  compilation header save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\MyPShader.csh
+  compilation object save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\x64\Debug\MyPShader.cso
+  compilation header save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\MySkyBoxPShader.csh
+  compilation object save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\x64\Debug\MySkyBoxPShader.cso
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\MySkyBoxVShader.hlsl(40,5-56): warning X3206: implicit truncation of vector type
+  
+  compilation header save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\MySkyBoxVShader.csh
+  compilation object save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\x64\Debug\MySkyBoxVShader.cso
+  compilation header save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\MyVShader.csh
+  compilation object save succeeded; see C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\x64\Debug\MyVShader.cso
+  D3D11Sample.cpp
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\D3D11Sample.cpp(352,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\D3D11Sample.cpp(353,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\D3D11Sample.cpp(430,53): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\D3D11Sample.cpp(563,57): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\D3D11Sample.cpp(601,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\D3D11Sample.cpp(606,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\D3D11Sample.cpp(611,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\D3D11Sample.cpp(616,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\D3D11Sample.cpp(793,32): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\D3D11Sample.cpp(794,33): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\D3D11Sample.cpp(822,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\D3D11Sample.cpp(863,2): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\D3D11Sample.cpp(1055,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\D3D11Sample.cpp(1090,105): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\D3D11Sample.cpp(1099,107): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\D3D11Sample.cpp(1110,101): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\D3D11Sample\D3D11Sample.cpp(1119,103): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  DDSTextureLoader.cpp
+  XTime.cpp
+  Generating Code...
+  D3D11Sample.vcxproj -> C:\Users\nickj\OneDrive\Desktop\P-PIV\D3D11Sample\x64\Debug\D3D11Sample.exe
