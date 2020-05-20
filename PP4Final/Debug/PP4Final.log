@@ -1,0 +1,11 @@
+﻿C:\Users\nickj\source\repos\PP4Final\PP4Final\MyMeshPShader.hlsl(47,30-77): warning X3206: 'dot': implicit truncation of vector type
+  
+  compilation header save succeeded; see C:\Users\nickj\source\repos\PP4Final\PP4Final\MyMeshPShader.csh
+  compilation object save succeeded; see C:\Users\nickj\source\repos\PP4Final\Debug\MyMeshPShader.cso
+  PP4Final.cpp
+C:\Users\nickj\source\repos\PP4Final\PP4Final\PP4Final.cpp(161,17): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\nickj\source\repos\PP4Final\PP4Final\PP4Final.cpp(165,17): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\nickj\source\repos\PP4Final\PP4Final\PP4Final.cpp(212,67): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\nickj\source\repos\PP4Final\PP4Final\PP4Final.cpp(428,32): warning C4244:  '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+C:\Users\nickj\source\repos\PP4Final\PP4Final\PP4Final.cpp(429,33): warning C4244:  '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+  PP4Final.vcxproj -> C:\Users\nickj\source\repos\PP4Final\Debug\PP4Final.exe
